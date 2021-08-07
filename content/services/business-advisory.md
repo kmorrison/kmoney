@@ -1,12 +1,18 @@
 ---
-title: 'Business Advisory'
+title: 'Basics II'
 date: 2018-11-28T15:14:39+10:00
 icon: 'services/service-icon-2.png'
 featured: true
+weight: 2
 draft: false
-heroHeading: 'Business Advisory'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroHeading: 'Basics II'
+heroSubHeading: 'Apply Basics-I concepts to observe and react'
 heroBackground: 'services/service2.jpg'
+summary: "
+- User Input
+
+- File Input/Output
+"
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares

@@ -22,6 +22,8 @@
     margin: auto 0;
     h1 {
       font-size: 3rem;
+      color: #fff;
+      text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
       @include media-breakpoint-up(md) {
         font-size: 4rem;
         width: 80%;
@@ -29,6 +31,8 @@
     }
     h2 {
       font-size: 2.2rem;
+      color: #fff;
+      text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
       @include media-breakpoint-up(md) {
         font-size: 2.4rem;
       }
@@ -36,6 +40,8 @@
     p {
       font-size: 1.6rem;
       line-height: 1.3;
+      color: #fff;
+      text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
       @include media-breakpoint-up(md) {
         font-size: 1.6rem;
         width: 60%;

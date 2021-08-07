@@ -1,18 +1,26 @@
 ---
-title: 'Accounting'
+title: 'Basics I'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroHeading: 'Basics I'
+heroSubHeading: 'The foundational knowledge on which all other programming is built'
 heroBackground: 'services/service1.jpg'
----
+summary: '
+- Data Types
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+- Variables
+
+- Control Flow (for while if else)
+
+- Functions
+
+- Common Data Structures
+
+- Time'
+---
 
 ## Ne verba patulosque numen vix libet
 
