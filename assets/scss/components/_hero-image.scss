@@ -75,3 +75,7 @@
 html {
  scroll-behavior: smooth;
 }
+
+.filter-white {
+  filter: invert(82%) sepia(80%) saturate(13%) hue-rotate(222deg) brightness(105%) contrast(103%);
+}
