@@ -1,13 +1,26 @@
 ---
-title: 'Business Sales'
+title: 'Web Programming'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
-weight: 3
+weight: 4
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
+heroHeading: 'Web Programming'
+heroSubHeading: 'Using code to automate our interactions with websites and services'
 heroBackground: 'services/service1.jpg'
+summary: '
+- HTTP
+
+- Client/Server
+
+- `requests` library
+
+- json
+
+- HTML and parsing
+
+- Scraping vs. APIs
+'
 ---
 
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia

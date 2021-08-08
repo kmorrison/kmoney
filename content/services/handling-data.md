@@ -1,13 +1,22 @@
 ---
-title: 'Superannuation'
-date: 2018-11-28T15:14:54+10:00
-icon: 'services/service-icon-5.png'
+title: 'Data'
+date: 2018-11-28T15:15:34+10:00
+icon: 'services/service-icon-4.png'
 featured: true
-weight: 5
+weight: 3
 draft: false
-heroHeading: 'Superannuation'
-heroSubHeading: 'Saving for retirement requires careful planning.'
-heroBackground: 'services/service1.jpg'
+heroHeading: 'Handling Data'
+heroSubHeading: 'Getting comfortable reading, transforming, and analyzing large corpi of data'
+heroBackground: 'services/service2.jpg'
+summary: "
+* Sorting and Filtering
+
+* List transformations
+
+* Key-value databases
+
+* Database indexing
+"
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

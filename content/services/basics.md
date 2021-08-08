@@ -1,11 +1,11 @@
 ---
-title: 'Basics I'
+title: 'Basics'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Basics I'
+heroHeading: 'Basics'
 heroSubHeading: 'The foundational knowledge on which all other programming is built'
 heroBackground: 'services/service1.jpg'
 summary: '
@@ -17,9 +17,10 @@ summary: '
 
 - Functions
 
-- Common Data Structures
+- Modules/Imports
 
-- Time'
+- Common Data Structures
+'
 ---
 
 ## Ne verba patulosque numen vix libet

@@ -1,13 +1,24 @@
 ---
-title: 'Mergers'
-date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+title: 'Intermediate/Advanced Python'
+date: 2018-11-28T15:14:54+10:00
+icon: 'services/service-icon-5.png'
 featured: true
-weight: 4
+weight: 5
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
+heroHeading: 'Intermediate/Advanced Python'
+heroSubHeading: 'Strength in programming requires mastering at least one programming language'
+heroBackground: 'services/service1.jpg'
+summary: "
+* Min/Max
+
+* `reversed`, `sorted`, `lambda`
+
+* context managers, decorators, generators
+
+* Useful standard libraries (itertools, etc.), where to find more
+
+* ipython, ipdb
+"
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

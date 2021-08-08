@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'Why Kraken'
 weight: 2
 background: ''
 button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Apprenticeship-style tutoring offers the _fastest_ path from complete beginner to employable and even sought-after by top tech companies. Learn more about the Kraken approach.
