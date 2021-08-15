@@ -5,10 +5,8 @@ draft: false
 weight: 3
 heroHeading: 'Software Engineering'
 heroSubHeading: 'Bridging the gap between knowing how to code and adding value to billion-dollar companies'
-heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
+heroBackground: 'hero/mahdi-bafande-Euma5rPW3TM-unsplash.jpg'
 thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 summary: Here we'll hone our craft and build the skills necessary for rock solid software. In other words, we'll transition from "New Grad" who knows how to code, to "Senior Engineer" who has the confidence to build complex systems.
 ---
 

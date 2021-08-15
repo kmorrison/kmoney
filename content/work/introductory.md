@@ -5,10 +5,8 @@ draft: false
 weight: 1
 heroHeading: 'Introductory'
 heroSubHeading: 'Going from zero to programming'
-heroBackground: 'work/work1.jpg'
+heroBackground: 'hero/zongnan-bao-ff6RAWz9UE0-unsplash.jpg'
 thumbnail: 'work/work1-thumbnail.jpg'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 summary: "The goal of this program is to go from zero or cursory programming knowledge to a solid grasp of the fundamentals." 
 ---
 

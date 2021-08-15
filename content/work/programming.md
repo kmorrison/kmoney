@@ -5,10 +5,8 @@ draft: false
 weight: 2
 heroHeading: 'Programming'
 heroSubHeading: 'Building interesting programs that solve real-world problems'
-heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
+heroBackground: 'hero/kristaps-ungurs-RcWvay1qGwc-unsplash.jpg'
 thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 summary: "Well on the road to mastery, in this course we'll be composing familiar and new concepts to create meaningful programs."
 ---
 

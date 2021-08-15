@@ -1,5 +1,5 @@
 ---
-title: 'Giving Back'
+title: 'Online and Local'
 weight: 3
 date: 2018-12-06T09:29:16+10:00
 background: ''
@@ -8,4 +8,4 @@ button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+Local to Hamilton area, travel is dependent on existing covid measures (all tutors are fully vaccinated). Online tutoring is currently preferred.
