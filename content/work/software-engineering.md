@@ -2,11 +2,11 @@
 title: 'Software Engineering'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 3
+weight: 4
 heroHeading: 'Software Engineering'
 heroSubHeading: 'Bridging the gap between knowing how to code and adding value to billion-dollar companies'
 heroBackground: 'hero/mahdi-bafande-Euma5rPW3TM-unsplash.jpg'
-thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
+thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ'
 summary: Here we'll hone our craft and build the skills necessary for rock solid software. In other words, we'll transition from "New Grad" who knows how to code, to "Senior Engineer" who has the confidence to build complex systems.
 ---
 
