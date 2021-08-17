@@ -6,7 +6,7 @@ weight: 2
 heroHeading: 'Programming'
 heroSubHeading: 'Building interesting programs that solve real-world problems'
 heroBackground: 'hero/kristaps-ungurs-RcWvay1qGwc-unsplash.jpg'
-thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'
+thumbnail: 'hero/kristaps-ungurs-RcWvay1qGwc-unsplash.jpg'
 summary: "Well on the road to mastery, in this course we'll be composing familiar and new concepts to create meaningful programs."
 ---
 

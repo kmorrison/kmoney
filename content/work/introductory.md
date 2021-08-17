@@ -6,7 +6,7 @@ weight: 1
 heroHeading: 'Introductory'
 heroSubHeading: 'Going from zero to programming'
 heroBackground: 'hero/zongnan-bao-ff6RAWz9UE0-unsplash.jpg'
-thumbnail: 'work/work1-thumbnail.jpg'
+thumbnail: 'hero/zongnan-bao-ff6RAWz9UE0-unsplash.jpg'
 summary: "The goal of this program is to go from zero or cursory programming knowledge to a solid grasp of the fundamentals." 
 ---
 
