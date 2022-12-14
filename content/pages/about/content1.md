@@ -6,4 +6,4 @@ background: 'hero/winter-landscape-2571788_1920.jpg'
 align: right
 ---
 
-Our tutors have experience with one-on-one teaching, from high-school homework programs, through University-aged interns at our Bay Area companies, up to mentoring junior and senior engineers on our work projects.
+Our tutors have experience with one-on-one teaching, from high-school homework programs, through University-aged interns at our Bay Area companies, up to mentoring junior and senior engineers in professional settings.

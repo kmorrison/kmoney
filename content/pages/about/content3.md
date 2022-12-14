@@ -8,4 +8,4 @@ button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-Local to Hamilton area, travel is dependent on existing covid measures (all tutors are fully vaccinated). Online tutoring is currently preferred.
+Local to Hamilton Ontario, travel is dependent on existing covid measures (all tutors are fully vaccinated). Online tutoring is currently preferred.
