@@ -7,9 +7,5 @@
 * Stronger hero on landing page
 * Favicon
 * Header logo
-* Services writeups
-    - Basics
-    - Input/Output
-    - Handling Data
-    - Web Development
-    - Advanced
+
+* How to netlify CDN
