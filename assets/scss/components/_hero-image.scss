@@ -16,10 +16,17 @@
   .row {
     height: inherit;
   }
+  .hero-overlay-gradient {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: linear-gradient(90deg, rgba(2,0,36,0.8869922969187675) 20%, rgba(0,212,255,0) 100%);
+  }
   .hero-text {
     flex: 0;
     color: #ffffff;
     margin: auto 0;
+    position: relative;
     h1 {
       font-size: 3rem;
       color: #fff;
@@ -66,6 +73,7 @@
 }
 .hero-image-setheight {
   height: 460px;
+  overflow: hidden;
 }
 .hero-image-blend-overlay {
   background-blend-mode: overlay;
