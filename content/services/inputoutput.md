@@ -6,7 +6,7 @@ featured: true
 weight: 2
 draft: false
 heroHeading: 'Input and Output'
-heroSubHeading: 'Apply Basics-I concepts to observe and react'
+heroSubHeading: 'Apply Basics concepts, incorporating data flows'
 heroBackground: 'services/service2.jpg'
 summary: "
 - Strings II
