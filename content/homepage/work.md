@@ -1,7 +1,7 @@
 ---
 title: 'Get A Head Start'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'hero/winter-landscape-2571788_1920.jpg'
 button: 'Programs'
 buttonLink: 'work'
 ---
