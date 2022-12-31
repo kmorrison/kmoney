@@ -1,0 +1,43 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-contact{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div class="intro intro-small">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8">
+      {{ .Content }}
+      <form class="contact-form" name="contact" method="POST" data-netlify="true">
+        <p class="form-group">
+            <label>Your Name: <input class="form-control" type="text" name="name" placeholder="John Doe" /></label>
+          </p>
+          <p class="form-group">
+            <label>Your Email: <input type="email" class="form-control" name="email" placeholder="example@example.com" /></label>
+          </p>
+          <p class="form-group">
+            <label>Message: <textarea name="message" class="form-control"></textarea></label>
+          </p>
+          <p class="form-group">
+            <button type="submit" class="btn btn-primary">Send</button>
+          </p>
+      </form>
+      <ul style="padding-top: 15px;">
+        <li><strong>Or reach out by email: </strong><a href="mailto:{{ .Site.Data.contact.actualEmail }}">
+            {{ .Site.Data.contact.email }}</a></li>
+        {{ if .Site.Data.contact.address }}
+        <li style="white-space: pre-wrap;"><strong>Address: </strong><br>{{ .Site.Data.contact.address }}</li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+{{ end }}
